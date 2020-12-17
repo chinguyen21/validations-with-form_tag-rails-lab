@@ -19,3 +19,8 @@
   background-color: red;
   display: table;
 }
+
+#error_explanation {
+  color: red
+}
+
